@@ -1,2 +1,2 @@
-# smarthand-company.github.io
-Changelog preview
+# Smarthand Changelog's
+Github pages changelogs.
