@@ -1,0 +1,11 @@
+# Site settings
+title: Smarthand Changelogs
+description: >-
+  Github pages changelogs
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-titles-from-headings
