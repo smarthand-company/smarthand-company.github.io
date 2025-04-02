@@ -14,7 +14,11 @@ Smart Journal changelog.
  * 2FA (Two-Factor Authentication)
 
 
+<br/>
+
 ---
+
+<br/>
 
 
 # v0.2.0
