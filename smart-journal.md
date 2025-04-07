@@ -7,6 +7,23 @@ Smart Journal changelog.
 
 <br/>
 
+# v0.4.0
+
+7 April 2025
+
+## Changes:
+ * Changelog dates
+
+## Added:
+ * Notify users when admin updates their profile
+
+<br/>
+
+---
+
+<br/>
+
+
 # v0.3.0
 
 3 April 2025
@@ -21,7 +38,6 @@ Smart Journal changelog.
 ---
 
 <br/>
-
 
 # v0.2.0
 
