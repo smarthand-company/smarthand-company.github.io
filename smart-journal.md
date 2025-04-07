@@ -9,6 +9,8 @@ Smart Journal changelog.
 
 # v0.3.0
 
+3 April 2025
+
 ## Added:
  * Changelog route
  * 2FA (Two-Factor Authentication)
@@ -22,6 +24,8 @@ Smart Journal changelog.
 
 
 # v0.2.0
+
+27 March 2025
 
 ## Changes:
  * Blocking temp emails for authenication
