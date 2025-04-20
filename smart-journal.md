@@ -13,17 +13,17 @@ Smart Journal changelog.
 20 April 2025
 
 
-#changes
+#Changes
 
-## when publishing an issue all the authors that are contributed to the issue will receive an email telling them that their article has been published 
+## When publishing an issue all the authors that are contributed to the issue will receive an email telling them that their article has been published 
 
-# added
+# Added
 
-## article in press is now available as an optional feature which will show show online articles that hasn't published yet this feature can be enabled in journal setting -> site section 
+## Article in press is now available as an optional feature which will show show online articles that hasn't published yet this feature can be enabled in journal setting -> site section 
 
-## now footer section description has a standalone field called (sub-description) in journal setting which can be customized .
+## Now footer section description has a standalone field called (sub-description) in journal setting which can be customized .
 
-## when publishing article or making an article online (if article in press enabled) there will be an option which you can enable to send an email to all the authors of that article to inform them that their article has become online containing a barcode that will direct them to the published article page , you can customize the email in workflow setting -> email templates -> Publication become online (template)
+## When publishing article or making an article online (if article in press enabled) there will be an option which you can enable to send an email to all the authors of that article to inform them that their article has become online containing a barcode that will direct them to the published article page , you can customize the email in workflow setting -> email templates -> Publication become online (template)
 
 <br/>
 
