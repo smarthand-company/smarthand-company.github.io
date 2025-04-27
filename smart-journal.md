@@ -5,6 +5,18 @@ title: Smart Journal
 
 Smart Journal changelog.
 
+<br/>
+
+# v0.5.1
+
+27 April 2025
+
+## Changes:
+ * The word 'Contributer' changed to 'Author' and 'Running title' to 'Short title'.
+ * Website now suppoorts search by author name.
+ * corresponding author and ORCID shows on author names in article detail
+
+<br/>
 
 <br/>
 
