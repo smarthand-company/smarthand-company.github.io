@@ -12,6 +12,19 @@ Smart Journal changelog.
 27 April 2025
 
 ## Changes:
+ * Now you can attach  file with email when thanking the reviewer .
+ * Creative common licenes changed from CC BY 4.0 to CC BY-NC-SA 4.0
+
+
+<br/>
+
+<br/>
+
+# v0.5.1
+
+27 April 2025
+
+## Changes:
  * The word 'Contributer' changed to 'Author' and 'Running title' to 'Short title'.
  * Website now suppoorts search by author name.
  * corresponding author and ORCID shows on author names in article detail
