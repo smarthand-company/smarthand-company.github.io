@@ -9,7 +9,7 @@ Smart Journal changelog.
 
 # v0.5.1
 
-27 April 2025
+5 May 2025
 
 ## Changes:
  * Now you can attach  file with email when thanking the reviewer .
