@@ -5,9 +5,22 @@ title: Smart Journal
 
 Smart Journal changelog.
 
+
+
 <br/>
 
-# v0.5.1
+# v0.5.3
+
+20 May 2025
+
+## Changes:
+ * QOA changes in workflow stages .
+
+<br/>
+
+<br/>
+
+# v0.5.2
 
 5 May 2025
 
