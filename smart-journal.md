@@ -14,7 +14,7 @@ Smart Journal changelog.
 20 May 2025
 
 ## Changes:
- * QOA changes in workflow stages .
+ * QOL changes in workflow stages .
 
 <br/>
 
