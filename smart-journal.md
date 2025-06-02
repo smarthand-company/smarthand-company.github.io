@@ -5,7 +5,16 @@ title: Smart Journal
 
 Smart Journal changelog.
 
+<br/>
 
+# v0.5.4
+
+2 Jun 2025
+
+## Changes:
+ * Now you can disable new submissions to the journal in journal settings -> site section .
+
+<br/>
 
 <br/>
 
