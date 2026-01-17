@@ -5,6 +5,53 @@ title: Smart Journal
 
 Smart Journal changelog.
 
+# Smart Journal Changelog
+
+## v0.6.0
+**Release Date:** February 17, 2026
+
+---
+
+###  New Features
+
+* **Custom Review Forms:** Administrators can now create and manage standardized manuscript evaluation forms.
+    * **Path:** `Workflow Settings` > `Review` > `Review Form Management`.
+    * **Capabilities:**
+        * **Form Designer:** Create forms using multiple question types (Yes/No, Rating, Text, Multiple Choice, Dropdown).
+        * **Multilingual Support:** Questions automatically adapt to the system's active languages.
+        * **Drag & Drop Editor:** Intuitively reorder questions.
+        * **Form Assignment:** Assign specific forms to reviewers when requesting evaluations.
+        * **Automated Responses:** Reviewer answers are auto-saved and securely stored.
+        * **PDF Export:** Download completed forms as professionally formatted PDFs.
+        * **Live Preview:** View the form as a reviewer would before publishing.
+* **Automated Acceptance Letters:** System-generated acceptance letters are now available once a paper is accepted and assigned to an issue.
+    * **Functionality:** A "Request Acceptance Letter" button will appear on the author’s dashboard. Clicking this sends an automated email with the letter attached as a PDF.
+    * **Customization:** Configure the letter in `Journal Settings` > `Acceptance Letter` and edit the email template in `Email Templates`.
+* **Article References:** Added support for manuscript references. 
+    * **Enable via:** `Workflow Settings` > `Submission` > `Metadata` > `References Metadata`.
+* **Plagiarism Detection Logo:** Journals can now upload a custom logo for plagiarism services.
+    * **Path:** `Journal Settings` > `Site` > `Plagiarism Detection Logo`.
+* **Bulk Uploads for Reviewers:** Added support for multiple file uploads within the "Thank Reviewer" modal.
+
+---
+
+###  Improvements
+
+* **Mathematical Symbols:** Expanded system support for a wider range of mathematical symbols.
+* **Dashboard Search:** Added the ability to search for manuscripts by **Article Code** in the dashboard.
+* **Discussion Transparency:** Sender names and email addresses are now clearly displayed in discussion threads and replies.
+
+---
+
+###  Bug Fixes
+
+* **Notifications:** Resolved an issue causing duplicate notifications.
+* **Email Structure:** Improved the layout and structure of discussion emails.
+* **File Management:** Fixed a bug that prevented the deletion of files during the submission process.
+* **Citations:** Corrected formatting errors in the citation engine.
+
+<br/>
+
 <br/>
 
 # v0.5.4
