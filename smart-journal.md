@@ -7,7 +7,7 @@ Smart Journal changelog.
 
 # Smart Journal Changelog
 
-## v0.6.0
+## v1.6.0
 **Release Date:** February 17, 2026
 
 ---
@@ -54,7 +54,7 @@ Smart Journal changelog.
 
 <br/>
 
-# v0.5.4
+# v1.5.4
 
 2 Jun 2025
 
@@ -65,7 +65,7 @@ Smart Journal changelog.
 
 <br/>
 
-# v0.5.3
+# v1.5.3
 
 20 May 2025
 
@@ -76,7 +76,7 @@ Smart Journal changelog.
 
 <br/>
 
-# v0.5.2
+# v1.5.2
 
 5 May 2025
 
@@ -89,7 +89,7 @@ Smart Journal changelog.
 
 <br/>
 
-# v0.5.1
+# v1.5.1
 
 27 April 2025
 
@@ -102,7 +102,7 @@ Smart Journal changelog.
 
 <br/>
 
-# v0.5.0
+# v1.5.0
 
 20 April 2025
 
@@ -125,7 +125,7 @@ Smart Journal changelog.
 
 <br/>
 
-# v0.4.0
+# v1.4.0
 
 7 April 2025
 
@@ -142,7 +142,7 @@ Smart Journal changelog.
 <br/>
 
 
-# v0.3.0
+# v1.3.0
 
 3 April 2025
 
@@ -157,7 +157,7 @@ Smart Journal changelog.
 
 <br/>
 
-# v0.2.0
+# v1.2.0
 
 27 March 2025
 
