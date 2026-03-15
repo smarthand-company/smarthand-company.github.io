@@ -7,6 +7,37 @@ Smart Journal changelog.
 
 # Smart Journal Changelog
 
+## v1.6.5
+**Release Date:** March 15, 2026
+
+---
+
+###  Improvements
+* **SEO:** SEO improved for better indexing in google.
+
+
+## v1.6.3
+**Release Date:** February 24, 2026
+
+---
+
+###  Improvements
+
+* **Review Form PDF response:** now Review Form PDF response show article title on top of the pdf.
+
+
+
+## v1.6.2
+**Release Date:** February 23, 2026
+
+---
+
+###  New Features
+
+* **Download all ariticle galleys:** now you can download all article galleys in `Journal Settings` > `site` > `Website Data` by pressing the download button.
+
+
+
 ## v1.6.0
 **Release Date:** February 17, 2026
 
